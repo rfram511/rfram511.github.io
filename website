@@ -1,0 +1,20 @@
+</head>    
+<body>
+    <div id="content">
+        <h1>Bekah Frampton</h1>
+        <h2>Senior in Chattanooga, Tennessee</h2>
+
+         <p>I am a Senior at Bob Jones University completing my degree in Theatre Arts. I work fulltime in Human Resources for a government consulting firm based in Washington, DC.</p>
+         <p>
+            I attend New City East Lake Presbyterian Church in East Lake, Tennessee. My favorite website is  
+            <a href="https://www.mtishows.com/">here</a>, and you can email me  
+            <a href="mailto:rfram511@students.bju.edu">here</a>.
+         </p> 
+         <p>
+            I enjoy singing and being outside.
+         </p>
+        <h3>EDUCATION</h3>
+        Theatre Arts<br />
+        Bob Jones University
+    </div>
+</body>
